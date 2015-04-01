@@ -1,0 +1,1 @@
+C:\Users\Ivan\Documents\C#\Coursera\Week 3\Project\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3Content\obj\x86\Debug\ProgrammingAssignment3Content.contentprojResolveAssemblyReference.cache

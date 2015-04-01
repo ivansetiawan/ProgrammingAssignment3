@@ -1,0 +1,9 @@
+C:\Users\Ivan\Documents\C#\Coursera\Week 3\Project\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\bin\x86\Debug\Content\greenrock.xnb
+C:\Users\Ivan\Documents\C#\Coursera\Week 3\Project\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\bin\x86\Debug\Content\magentarock.xnb
+C:\Users\Ivan\Documents\C#\Coursera\Week 3\Project\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\bin\x86\Debug\Content\whiterock.xnb
+C:\Users\Ivan\Documents\C#\Coursera\Week 3\Project\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\bin\x86\Debug\ProgrammingAssignment3.exe
+C:\Users\Ivan\Documents\C#\Coursera\Week 3\Project\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\bin\x86\Debug\ProgrammingAssignment3.pdb
+C:\Users\Ivan\Documents\C#\Coursera\Week 3\Project\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ivan\Documents\C#\Coursera\Week 3\Project\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.exe
+C:\Users\Ivan\Documents\C#\Coursera\Week 3\Project\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.pdb
+C:\Users\Ivan\Documents\C#\Coursera\Week 3\Project\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.csprojResolveAssemblyReference.cache

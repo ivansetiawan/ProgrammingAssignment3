@@ -1,0 +1,8 @@
+C:\Users\Ivan\Documents\C#\Coursera\Week 3\Project\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\bin\x86\Release\Content\greenrock.xnb
+C:\Users\Ivan\Documents\C#\Coursera\Week 3\Project\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\bin\x86\Release\Content\magentarock.xnb
+C:\Users\Ivan\Documents\C#\Coursera\Week 3\Project\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\bin\x86\Release\Content\whiterock.xnb
+C:\Users\Ivan\Documents\C#\Coursera\Week 3\Project\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\bin\x86\Release\ProgrammingAssignment3.exe
+C:\Users\Ivan\Documents\C#\Coursera\Week 3\Project\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\bin\x86\Release\ProgrammingAssignment3.pdb
+C:\Users\Ivan\Documents\C#\Coursera\Week 3\Project\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ivan\Documents\C#\Coursera\Week 3\Project\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Release\ProgrammingAssignment3.exe
+C:\Users\Ivan\Documents\C#\Coursera\Week 3\Project\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Release\ProgrammingAssignment3.pdb
